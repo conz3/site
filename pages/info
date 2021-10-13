@@ -25,24 +25,25 @@
     
 </li>
 <li>  Здесь же я оставлю маленькую шпаргалку по основным тегам:
-
-    &lt;p&gt;&lt;/p&gt; — абзац
-    &lt;br&gt; — переход на новую строку
-    &lt;pre&gt;&lt;/pre&gt; —
-                        предварительное
+    <ul>
+        <li> &lt;p&gt;&lt;/p&gt; — абзац </li>
+       <li> &lt;br&gt; — переход на новую строку </li>
+       <li> &lt;pre&gt;&lt;/pre&gt; —
+<pre>                   предварительное
                             форматирование
-                                как в редакторе
+                                как в редакторе</pre> </li>
                     
-                                &lt;code&gt;&lt;/code&gt; — форматирование с имитацией программного кода
-    let a = prompt()
-    console.log(a)
-    alert(a)
-    &lt;i&gt;&lt;/i&gt; — курсив
-    &lt;b&gt;&lt;/b&gt; — жирный шрифт
-    &lt;mark&gt;&lt;/mark&gt; — выделенный шрифт
-    &lt;sup&gt;&lt;/sup&gt; — верхнее начертание
-    &lt;sub&gt;&lt;/sub&gt; — нижнее начертание
-    &lt;!-- неработающий код --&gt; — комментарии в языке HTML </li>
+                                <li> &lt;code&gt;&lt;/code&gt; — <code>форматирование с имитацией программного кода 
+       let a = prompt()
+       console.log(a)
+       alert(a) </code> </li>
+      <li> &lt;i&gt;&lt;/i&gt; — <i>курсив</i> </li>
+      <li> &lt;b&gt;&lt;/b&gt; — <b>жирный шрифт</b> </li>
+      <li> &lt;mark&gt;&lt;/mark&gt; — <mark>выделенный шрифт</mark> </li>
+      <li> &lt;sup&gt;&lt;/sup&gt; — <sup>верхнее начертание</sup> </li>
+      <li> &lt;sub&gt;&lt;/sub&gt; — <sub>нижнее начертание</sub> </li>
+      <li> &lt;!-- неработающий код --&gt; — комментарии в языке HTML </li>
+    </ul>
 </ol>
  </body>
 </html>
