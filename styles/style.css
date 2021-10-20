@@ -1,1 +1,17 @@
-
+h1 {
+    color: rgb(255, 0, 128);
+    font-style: italic;
+    font-weight: bold;
+    font-family: fantasy;
+}
+body {
+    background-color: blanchedalmond;
+}
+h2.proba {
+    color: rgb(111, 0, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2.proba1 {
+    color: rgb(111, 0, 255);
+    font-family:sans-serif;
+}
