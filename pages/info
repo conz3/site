@@ -42,7 +42,7 @@
       <li> &lt;mark&gt;&lt;/mark&gt; — <mark>выделенный шрифт</mark> </li>
       <li> &lt;sup&gt;&lt;/sup&gt; — <sup>верхнее начертание</sup> </li>
       <li> &lt;sub&gt;&lt;/sub&gt; — <sub>нижнее начертание</sub> </li>
-      <li> &lt;!-- неработающий код --&gt; — комментарии в языке HTML </li>
+      <li> &lt;!-- неработающий код --&gt; — <del>комментарии в языке HTML</del> </li>
     </ul>
 </ol>
  </body>
