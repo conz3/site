@@ -8,10 +8,10 @@
     <body>
         <table border="1" width="100%">
             <tr>
-                <td></td>
-                <img scr="image/html.png" alt="">
+                <td colspan="2" rowspan="2"> </td>
+                <img scr="image/html.png">
                 <video src="videos/">
-                <td></td>
+                <td><iframe width="560" height="315" src="https://www.youtube.com/embed/bWNmJqgri4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
                 <td></td>
                 <td></td>
                 <td></td>
